@@ -1,5 +1,5 @@
 ## Hello! I'm [Lazajs](https://lazajs.com)
-I'm a web developer, my primary focus is creating exceptional user experiences, and I am passionate about performance optimization and implementing strong web architectures.
+I'm a web developer, my primary focus is creating exceptional user experiences. I am passionate about performance optimization and implementing strong web architectures.
 
 <br/>
 
