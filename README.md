@@ -1,5 +1,9 @@
 ## Hello! I'm [Lazajs](https://lazajs.com)
-I'm a web developer, my primary focus is creating exceptional user experiences. I am passionate about performance optimization and implementing strong web architectures.
+Passionate about building scalable web applications and tackling low-level challenges, I specialize in full-stack development with a strong focus on performance, architecture, and best practices.
+
+With experience in React, Next.js, NestJS, and PostgreSQL, I’ve developed high-performance APIs, optimized cloud-based applications, and worked with large-scale data processing. I enjoy problem-solving at both high and low levels, from designing robust systems to fine-tuning for efficiency.
+
+Always exploring new technologies and engineering challenges, I’m driven by the pursuit of clean, scalable, and maintainable code. Let’s connect!
 
 <br/>
 
